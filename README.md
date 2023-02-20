@@ -1,2 +1,2 @@
 # github-developers-training
-GitHub Developers training provided by InfoMagnus
+GitHub Non-Developers training provided by InfoMagnus
